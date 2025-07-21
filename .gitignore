@@ -7,6 +7,9 @@
 /testwrk/
 /wrk/
 /cc65.zip
+/*.deb
+/*.patch
+/stage
 /util/atari/*.exe
 /util/gamate/*.exe
 

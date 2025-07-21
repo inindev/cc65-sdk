@@ -47,7 +47,7 @@
 
 
 #define VER_MAJOR       2U
-#define VER_MINOR       19U
+#define VER_MINOR       20U
 
 /*
 ** Note: until 2.19 the __CC65__ macro was defined as (VER_MAJOR * 0x100) + VER_MINOR * 0x10
